@@ -50,7 +50,7 @@ I actively participate in collaborative projects and open source communities. I 
 
 You can connect with me via the following channels:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [abhayshriwastav@gmail.com](mailto: abhayshriwastav@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 - Personal website or portfolio: [Your Website/Portfolio URL](https://www.your-website-url.com)
 
